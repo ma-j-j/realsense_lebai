@@ -1,0 +1,5 @@
+<launch>
+<!-- <node pkg="robot_cap" type="citrus" name="citrus" output="screen"/> -->
+
+<node pkg="robot_cap" type="sub" name="citrus_sub" output="screen"/>
+</launch>
